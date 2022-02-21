@@ -10,7 +10,7 @@ The JSON file format appears to be undocumented(?). As such, it's likely intende
 
 The file seems to look like this:
 
-```json
+```
 {
     "AuxAudioDevice1":      { ... },
     "DesktopAudioDevice1":  { ... },
